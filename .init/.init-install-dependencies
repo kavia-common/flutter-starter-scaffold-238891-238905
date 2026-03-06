@@ -1,0 +1,4 @@
+{
+    "command": "flutter pub get",
+    "working_directory": "/home/kavia/workspace/code-generation/flutter-starter-scaffold-238891-238905/flutter_frontend"
+}

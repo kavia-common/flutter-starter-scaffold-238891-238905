@@ -1,0 +1,4 @@
+{
+    "command": "flutter build apk --release --target-platform android-x64",
+    "working_directory": "/home/kavia/workspace/code-generation/flutter-starter-scaffold-238891-238905/flutter_frontend"
+}
